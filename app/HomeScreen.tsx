@@ -47,7 +47,7 @@ export default function HomeScreen() {
 const styles = StyleSheet.create({
   container: { 
     flex: 1, 
-    backgroundColor: 'white', // ✅ background putih
+    backgroundColor: 'red', // ✅ background putih
     padding: 10 
   },
   card: { 
@@ -73,7 +73,7 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: '#dc143c',
+    backgroundColor: '#007AFF', // Ganti warna latar belakang menjadi biru
     padding: 12,
     borderRadius: 10,
     marginHorizontal: 20,

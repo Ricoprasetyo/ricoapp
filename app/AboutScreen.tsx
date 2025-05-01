@@ -10,7 +10,7 @@ export default function AboutScreen() {
         Dibuat menggunakan React Native + Expo Router untuk tugas pengembangan mobile.
       </Text>
       <Text style={styles.text}>
-        Dibuat oleh: Rafendi
+        Dibuat oleh: Bedrus soleh
       </Text>
     </View>
   );
@@ -22,7 +22,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center', 
     alignItems: 'center', 
     padding: 20, 
-    backgroundColor: '#00008b', // Ganti warna latar belakang menjadi olive green
+    backgroundColor: '#7fffd4', // Ganti warna latar belakang menjadi olive green
   },
   title: { 
     fontSize: 24, 

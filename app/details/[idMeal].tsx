@@ -35,7 +35,7 @@ export default function DetailScreen() {
   }
 
   return (
-    <ScrollView style={{ flex: 1, padding: 16, backgroundColor: '#00008b' }}>
+    <ScrollView style={{ flex: 1, padding: 16, backgroundColor: '#7fffd4' }}>
       <Image
         source={{ uri: meal.strMealThumb }}
         style={{ width: "100%", height: 200, borderRadius: 8, marginBottom: 16 }}
