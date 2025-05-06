@@ -10,7 +10,7 @@ export default function AboutScreen() {
         Dibuat menggunakan React Native + Expo Router untuk tugas pengembangan mobile.
       </Text>
       <Text style={styles.text}>
-        Dibuat oleh: Bedrus soleh
+        Dibuat oleh: Rico Dwi Prasety
       </Text>
     </View>
   );
