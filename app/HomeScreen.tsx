@@ -73,7 +73,7 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: '#007AFF', // Ganti warna latar belakang menjadi biru
+    backgroundColor: '#f0f0f0', // Ganti warna latar belakang menjadi biru
     padding: 12,
     borderRadius: 10,
     marginHorizontal: 20,
